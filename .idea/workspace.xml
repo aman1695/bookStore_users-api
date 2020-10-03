@@ -20,18 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8abc1921-fb28-48a1-a5f6-9eeb4a424523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bookStore_users-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/application.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/url_mapping.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/ping/ping_controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/users/user_controller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/users/user_dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/users/user_dto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/user_service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urls/errors/rest_errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/users/user_controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users/user_controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/users/user_dao.go" beforeDir="false" afterPath="$PROJECT_DIR$/domain/users/user_dao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/users/user_dto.go" beforeDir="false" afterPath="$PROJECT_DIR$/domain/users/user_dto.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/user_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/services/user_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls/errors/rest_errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/utils/errors/rest_errors.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,21 +111,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601621030287" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601714215636">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601723869669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601714215636" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601714215635">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601723869669" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601723869669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601714215635" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601714215635">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601723869669" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601723869669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601714215635" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601714215635">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601723869669" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601723869669">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601714215635" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601723869669" />
   </component>
 </project>
