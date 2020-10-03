@@ -2,7 +2,7 @@ package users
 
 import (
 	"fmt"
-	"github.com/aman1695/bookStore_users-api/urls/errors"
+	"github.com/aman1695/bookStore_users-api/utils/errors"
 )
 
 var(

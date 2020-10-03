@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/aman1695/bookStore_users-api/domain/users"
 	"github.com/aman1695/bookStore_users-api/services"
-	"github.com/aman1695/bookStore_users-api/urls/errors"
+	"github.com/aman1695/bookStore_users-api/utils/errors"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strconv"
