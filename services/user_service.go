@@ -9,11 +9,13 @@ func CreateUser(user users.User) (*users.User, *errors.RestErr) {
 	if err:=user.Validate(); err != nil {
 		return nil, err
 	}
-	if err:=user.Save(); err != nil {
+	RUser,err:=user.Save()
+	if err != nil {
 		return nil, err
 	}
-	return &user, nil
+	return RUser, nil
 }
+
 func GetUser(userId int64) (*users.User, *errors.RestErr) {
 	if userId <=0 {
 		return nil, errors.NewBadRequestError("invalid id")
@@ -25,4 +27,27 @@ func GetUser(userId int64) (*users.User, *errors.RestErr) {
 	}
 	return resUser,nil
 
+}
+
+func UpdateUser(user users.User) (*users.User, *errors.RestErr) {
+	if user.Id <= 0 {
+		return nil, errors.NewBadRequestError("invalid id")
+	}
+	RUser,err:=user.Update()
+	if err != nil {
+		return nil, err
+	}
+	return RUser, nil
+}
+
+func DeleteUser(userId int64) (*users.User, *errors.RestErr) {
+	if userId <= 0 {
+		return nil, errors.NewBadRequestError("invalid id")
+	}
+	user := users.User{Id: userId}
+	RUser,err:=user.Delete()
+	if err != nil {
+		return nil, err
+	}
+	return RUser, nil
 }
