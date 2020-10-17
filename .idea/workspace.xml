@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8abc1921-fb28-48a1-a5f6-9eeb4a424523" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8abc1921-fb28-48a1-a5f6-9eeb4a424523" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookStore_oauth-api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -119,26 +117,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="550" y="114" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601749737848" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601621030287">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602906257731">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601621030287" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602403340582">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602906257731" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602906275991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602403340582" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602403340582">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602906275991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602906275991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602403340582" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602403340582">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602906275991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602906275991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602403340582" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602403340582">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602906275991" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602906275991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602403340582" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602906275991" />
     <state x="526" y="125" key="refactoring.ChangeSignatureDialog" timestamp="1602319849424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
